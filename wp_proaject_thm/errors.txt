@@ -1,0 +1,20 @@
+custom post typ  does not display properly
+
+custom texanomy does not display
+
+
+content-none
+
+single-portfolio
+
+custom post does not included in archive , check by date 
+
+
+==========================
+search ok
+index ok
+wppt-blog ok
+page ok but one function unknown
+404 ok
+archive ok
+image.php not modified
